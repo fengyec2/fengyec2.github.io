@@ -8,6 +8,8 @@ order: 4
 
 My personal blog site built with [GitHub Pages](https://pages.github.com/)
 
+网站套了一层 Cloudflare, 应该能提升一些访问速度...
+
 ## 关于我
 
 No description yet :)
